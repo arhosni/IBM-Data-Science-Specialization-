@@ -1,1 +1,1 @@
-# IBM-Data-Science-Specialization-
+# IBM-Data-Science-Profissional-Course
